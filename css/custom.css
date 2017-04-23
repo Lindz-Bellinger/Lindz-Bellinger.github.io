@@ -1,0 +1,28 @@
+body {
+	background-color: grey;
+	color: aquamarine;
+}
+
+.jumbotron{
+	text-align: center;
+	color: black
+}
+
+.testing{
+	text-align: center;
+	color: red;
+}
+
+.bigger{
+	font-size: 40px;
+}
+
+.testing2{
+	font-family: "UnifrakturCook", cursive;
+
+}
+
+.knitting{
+	background-image: url("https://littledazzler.files.wordpress.com/2013/11/dscn1983.jpg");
+	background-color: white;
+}
